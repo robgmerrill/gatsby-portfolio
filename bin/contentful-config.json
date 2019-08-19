@@ -222,7 +222,9 @@
             "type": "Link",
             "validations": [
               {
-                "linkContentType": ["socialLink"]
+                "linkContentType": [
+                  "socialLink"
+                ]
               }
             ],
             "linkType": "Entry"
@@ -272,7 +274,9 @@
             "type": "Link",
             "validations": [
               {
-                "linkContentType": ["project"]
+                "linkContentType": [
+                  "project"
+                ]
               }
             ],
             "linkType": "Entry"
@@ -646,10 +650,9 @@
         },
         "roles": {
           "en-US": [
-            "Quick setup 🚀",
-            "Responsive 📱",
-            "PWA ✨",
-            "Contentful CMS 🔧"
+            "Grow Businesses 🚀 ",
+            "Responsive Websites 📱",
+            "Painless User Interfaces 🔧"
           ]
         },
         "socialLinks": {
